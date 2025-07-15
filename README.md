@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/gauravmundhada/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gauravmundhada/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/gauravmundhada/DSA/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
