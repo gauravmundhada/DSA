@@ -1,14 +1,20 @@
+// Using hashmap
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int total_sum = (n * (n+1))/2; // Sum of n natural numbers
 
-        int current_sum = nums[0]; // sum of all elements in array
-        for (int i = 1; i < n; i++) {
-            current_sum += nums[i];
+        vector<int> freq(n+1, 0); // keep track of the numbers present
+
+        for (int i = 0; i < n; i++) {
+            freq[nums[i]]++; // mark the appearance
         }
 
-        return total_sum - current_sum;
+        for (int f = 0; f <= n; f++) {
+            if (freq[f] == 0) { // means number is not present
+                return f;
+            }
+        }
+        return -1; // no missing number found
     }
 };
