@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
