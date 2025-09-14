@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauravmundhada/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauravmundhada/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
