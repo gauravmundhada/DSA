@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/gauravmundhada/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
+| [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/gauravmundhada/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
