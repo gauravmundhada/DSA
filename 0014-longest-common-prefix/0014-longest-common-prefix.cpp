@@ -1,22 +1,93 @@
+struct TrieNode {
+    TrieNode* children[26];
+    bool isEnd;
+
+    TrieNode() {
+        for (int i = 0; i < 26; i++) {
+            children[i] = nullptr;
+        }
+        isEnd = false;
+    }
+};
+
+class Trie {
+private:
+    TrieNode* root;
+
+public:
+    Trie() {
+        root = new TrieNode();
+    }
+
+    void insert(string& word) {
+        TrieNode* crawler = root;
+        for (char ch : word) {
+            int idx = ch - 'a';
+            if (!crawler->children[idx]) {
+                crawler->children[idx] = new TrieNode();
+            }
+            crawler = crawler->children[idx];
+        }
+        crawler->isEnd = true;
+    }
+
+    bool search(string &word) {
+        TrieNode* crawler = root;
+        for (char ch : word) {
+            int idx = ch - 'a';
+            if (!crawler->children[idx]) {
+                return false;
+            }
+            crawler = crawler->children[idx];
+        }
+        return crawler->isEnd;
+    }
+
+    TrieNode* getRoot() {
+        return root;
+    }
+
+    bool startsWith(string &prefix) {
+        TrieNode* crawler = root;
+        int i = 0, n = prefix.length();
+        for (; i < n; i++) {
+            int idx = prefix[i] - 'a';
+            if (!crawler->children[idx]) {
+                return false;
+            }
+            crawler = crawler->children[idx];
+        }
+        return i == n;
+    }
+};
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        int n = strs.size();
+        Trie trie;
+        string prefix;
 
-        if (n == 1) return strs[0];
+        TrieNode* node = trie.getRoot();
 
-        string pre = "";
-        for (int i = 0; i < strs[0].size(); i++) {
-            char ch = strs[0][i];
+        for (string& str : strs) {
+            trie.insert(str);
+        }
 
-            for (int j = 1; j < n; j++) {
-                if (strs[j][i] == ch) {
-                    if (j == n-1) pre.push_back(ch);
-                } else {
-                    return pre;
+        while (true) {
+            int count = 0;
+            int nextIdx = -1;
+
+            for (int i = 0; i < 26; i++) {
+                if (node->children[i]) {
+                    count++;
+                    nextIdx = i;
                 }
             }
+            if (count != 1 || node->isEnd) break;
+
+            prefix += ('a' + nextIdx);
+            node = node->children[nextIdx];
         }
-        return pre;
+        return prefix;
     }
 };
