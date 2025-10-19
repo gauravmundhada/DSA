@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
