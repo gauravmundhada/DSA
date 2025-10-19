@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gauravmundhada/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmundhada/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gauravmundhada/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravmundhada/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gauravmundhada/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/gauravmundhada/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/gauravmundhada/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gauravmundhada/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
