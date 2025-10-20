@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gauravmundhada/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
