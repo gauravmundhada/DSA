@@ -1,23 +1,39 @@
+// difference array technique
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations) {
-        sort(nums.begin(), nums.end());
+        int n = nums.size();
 
-        int ans = 0;
-        unordered_map<int, int> numCount;
+        int maxV = *max_element(nums.begin(), nums.end());
+        maxV += k;
 
-        for (const int num: nums) {
-            ++numCount[num];
+        vector<int> diff(maxV+2, 0);
+
+        unordered_map<int, int> freq;
+
+        for (int i = 0; i < n; i++) {
+            freq[nums[i]]++;
+
+            int l = max(nums[i]-k, 0);
+            int r = min(maxV, nums[i]+k);
+
+            diff[l]++;
+            diff[r+1]--;
         }
 
-        for (int i = nums.front(); i <= nums.back(); i++) {
-            int l = lower_bound(nums.begin(), nums.end(), i - k) - nums.begin();
-            int r = upper_bound(nums.begin(), nums.end(), i + k) - nums.begin();
+        int res = 1;
 
-            int tempAns = min(r - l, (numCount.count(i) ? numCount[i] : 0) + numOperations);
-            ans = max(ans, tempAns);
+        for (int i = 0; i < diff.size(); i++) {
+            diff[i] += (i > 0 ? diff[i-1] : 0) ;
+
+            int targetFreq     = freq[i];
+            int needConversion = diff[i] - targetFreq;
+
+            int maxConversionPoss = min(numOperations, needConversion);
+
+            int tempAns = maxConversionPoss + targetFreq;
+            res = max(res, tempAns);
         }
-
-        return ans;
+        return res;
     }
 };
