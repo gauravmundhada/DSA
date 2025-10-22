@@ -1,34 +1,23 @@
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations) {
-        int maxEl = *max_element(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end());
 
-        vector<int> freq(maxEl+k+1, 0);
+        int ans = 0;
+        unordered_map<int, int> numCount;
 
-        for (int num : nums) {
-            freq[num]++;
+        for (const int num: nums) {
+            ++numCount[num];
         }
 
-        for (int i = 1; i < freq.size(); i++) {
-            freq[i] += freq[i-1];
+        for (int i = nums.front(); i <= nums.back(); i++) {
+            int l = lower_bound(nums.begin(), nums.end(), i - k) - nums.begin();
+            int r = upper_bound(nums.begin(), nums.end(), i + k) - nums.begin();
+
+            int tempAns = min(r - l, (numCount.count(i) ? numCount[i] : 0) + numOperations);
+            ans = max(ans, tempAns);
         }
 
-        int res = 0;
-        for (int target = *min_element(nums.begin(), nums.end()); target <= maxEl; target++) {
-            if (freq[target] == 0) continue;
-
-            int leftBound  = target-k;
-            int rightBound = target+k;
-
-            int totalCount  = freq[rightBound] - (leftBound > 0 ? freq[leftBound-1] : 0);
-            int targetCount = freq[target] - (target > 0 ? freq[target-1] : 0);  
-
-            int needConversion = totalCount - targetCount;
-
-            int maxPossible = targetCount +  min(needConversion, numOperations);
-
-            res = max(res, maxPossible);
-        }
-        return res;
+        return ans;
     }
 };
