@@ -3,7 +3,7 @@ public:
     void performOp(string &s) {
         string str;
         for (int i = 0; i <= s.length()-2; i++) {
-            str += char(((s[i] - '0' + s[i + 1] - '0') % 10) + '0');
+            str += ((s[i] - '0' + s[i + 1] - '0') % 10) + '0';
         }
         s = str;
     }
