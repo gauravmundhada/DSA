@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gauravmundhada/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/gauravmundhada/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
