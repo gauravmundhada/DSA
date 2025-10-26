@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
