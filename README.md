@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravmundhada/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravmundhada/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravmundhada/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauravmundhada/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauravmundhada/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravmundhada/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravmundhada/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravmundhada/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/gauravmundhada/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravmundhada/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauravmundhada/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
