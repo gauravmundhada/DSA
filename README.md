@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/gauravmundhada/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1006-vowel-spellchecker](https://github.com/gauravmundhada/DSA/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gauravmundhada/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+| [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravmundhada/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravmundhada/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
