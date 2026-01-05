@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/gauravmundhada/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravmundhada/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravmundhada/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
