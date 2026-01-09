@@ -11,39 +11,22 @@
  */
 class Solution {
 public:
-    int maxD = INT_MIN;
-    unordered_map<int, int> mpp; // node -> its depth
+    typedef pair<int, TreeNode*> P;
 
-    void populateDepth(TreeNode* root, int depth) {
-        if (root == NULL) return;
+    P solve(TreeNode* root) {
+        if (!root) return {0, NULL};
 
-        mpp[root->val] = depth;
-        maxD = max(maxD, depth);
+        P l = solve(root->left);
+        P r = solve(root->right);
 
-        populateDepth(root->left, depth+1);
-        populateDepth(root->right, depth+1);
-    }
-
-    TreeNode* LCA(TreeNode* root) {
-        if (root == NULL || mpp[root->val] == maxD) {
-            return root;
+        if (l.first == r.first) { // same depth
+            return {l.first + 1, root};
         }
 
-        TreeNode* l = LCA(root->left);
-        TreeNode* r = LCA(root->right);
-
-        if (l != NULL && r != NULL) {
-            return root;
-        }
-
-        return (l != NULL) ? l : r;
+        return (l.first > r.first) ? make_pair(l.first + 1, l.second) : make_pair(r.first + 1, r.second);
     }
 
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        if (!root) return NULL;
-
-        populateDepth(root, 0);
-
-        return LCA(root);
+        return solve(root).second;
     }
 };
