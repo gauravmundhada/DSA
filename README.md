@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/gauravmundhada/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/gauravmundhada/DSA/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/gauravmundhada/DSA/tree/master/1871-palindrome-partitioning-iv) |
+| [3640-trionic-array-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-trionic-array-ii) |
 ## Backtracking
 |  |
 | ------- |
