@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gauravmundhada/DSA/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/gauravmundhada/DSA/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/gauravmundhada/DSA/tree/master/0130-surrounded-regions) |
 | [0332-reconstruct-itinerary](https://github.com/gauravmundhada/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gauravmundhada/DSA/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/gauravmundhada/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/gauravmundhada/DSA/tree/master/0130-surrounded-regions) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gauravmundhada/DSA/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/gauravmundhada/DSA/tree/master/0113-path-sum-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gauravmundhada/DSA/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/gauravmundhada/DSA/tree/master/0113-path-sum-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
