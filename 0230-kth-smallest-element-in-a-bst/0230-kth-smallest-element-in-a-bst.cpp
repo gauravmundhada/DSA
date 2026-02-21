@@ -9,28 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ // as the inorder order traversal of BST is sorted we can use leverage it
 class Solution {
 public:
-    void traverse(TreeNode* root, priority_queue<int>& pq, int k) {
+    void inorder(TreeNode* root, int k, int& ans, int& count) {
         if (!root) return;
 
-        if (pq.size() < k) {
-            pq.push(root->val);
-        } else if (pq.top() > root->val) {
-            pq.pop();
-            pq.push(root->val);
+        inorder(root->left, k, ans, count);
+        count++;
+        if (count == k) {
+            ans = root->val;
+            return;
         }
-
-        traverse(root->left, pq, k);
-        traverse(root->right, pq, k);
+        inorder(root->right, k, ans, count);
     }
 
     int kthSmallest(TreeNode* root, int k) {
         if (!root) return -1;
-        priority_queue<int> pq;
-
-        traverse(root, pq, k);
-
-        return pq.top();
+        int ans = 0;
+        int count = 0;
+        inorder(root, k, ans, count);
+        return ans;       
     }
 };
