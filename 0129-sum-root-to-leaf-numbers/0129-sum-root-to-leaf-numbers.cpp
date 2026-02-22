@@ -11,31 +11,26 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int>& nums, int curNum) {
+    void solve(TreeNode* root, int curNum, int& ans) {
         if (!root) return;
 
         curNum = curNum * 10 + root->val;
         
         if (!root->left && !root->right) {
-            nums.push_back(curNum);
+            ans += curNum;
             return;
         }
 
-        solve(root->left, nums, curNum);
-        solve(root->right, nums, curNum);
+        solve(root->left, curNum, ans);
+        solve(root->right, curNum, ans);
     }
 
     int sumNumbers(TreeNode* root) {
         if (!root) return 0;
 
-        vector<int> nums;
-
-        solve(root, nums, 0);
-
         int ans = 0;
-        for (int num : nums) {
-            ans += num;
-        }
+        solve(root, 0, ans);
+
         return ans;
     }
 };
