@@ -1,14 +1,20 @@
 class Solution {
 public:
-    void dfs(int idx, unordered_map<int, vector<int>>& mpp, int curSum, int& ans, vector<int>& informTime) {
-        if (mpp.find(idx) == mpp.end()) { // this means end of the path - no more employees to inform
-            ans = max(ans, curSum);
-            return;
-        }
+    void bfs(int headID, unordered_map<int, vector<int>>& mpp, int curSum, int& ans, vector<int>& informTime) {
+        queue<pair<int, int>> q; // {node, time_to_reach_that_node}
+        q.push({headID, 0});
 
-        curSum += informTime[idx];
-        for (int emp : mpp[idx]) {
-            dfs(emp, mpp, curSum, ans, informTime);
+        while (!q.empty()) {
+            pair<int, int> temp = q.front();
+            q.pop();
+            int cur_emp = temp.first;
+            int cur_time = temp.second;
+
+            ans = max(ans, cur_time);
+
+            for (int& emp : mpp[cur_emp]) {
+                q.push({emp, cur_time+informTime[cur_emp]});
+            }
         }
     }
 
@@ -23,7 +29,7 @@ public:
             mpp[mng].push_back(emp);
         }
         int ans = 0;
-        dfs(headID, mpp, 0, ans, informTime);
+        bfs(headID, mpp, 0, ans, informTime);
         return ans;
     }
 };
