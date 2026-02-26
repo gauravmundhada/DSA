@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gauravmundhada/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/gauravmundhada/DSA/tree/master/0212-word-search-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gauravmundhada/DSA/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gauravmundhada/DSA/tree/master/1046-last-stone-weight) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravmundhada/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravmundhada/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -477,5 +481,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
