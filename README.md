@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gauravmundhada/DSA/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauravmundhada/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/gauravmundhada/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravmundhada/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gauravmundhada/DSA/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
