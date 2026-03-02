@@ -2,33 +2,41 @@ class Solution {
 public:
     int minSwaps(vector<vector<int>>& grid) {
         int n = grid.size();
+        vector<int> maxRight(n, -1);
 
-        vector<int> trailingZeroes(n);
-
+        // Find rightmost 1 in each row
         for (int i = 0; i < n; i++) {
-            int count = 0;
-            for (int j = n-1; j >= 0; j--) {
-                if (grid[i][j] == 0) count++;
-                else break;
+            for (int j = n - 1; j >= 0; j--) {
+                if (grid[i][j] == 1) {
+                    maxRight[i] = j;
+                    break;
+                }
             }
-            trailingZeroes[i] = count;
         }
 
-        int swaps = 0;
+        int swapCount = 0;
 
+        // Instead of full sort, fix position by position
         for (int i = 0; i < n; i++) {
-            int zeroNeed = n - i - 1;
 
             int j = i;
-            while (j < n && trailingZeroes[j] < zeroNeed) j++;
-            if (j == n) return -1;
 
+            // Find row that satisfies condition
+            while (j < n && maxRight[j] > i) {
+                j++;
+            }
+
+            if (j == n)
+                return -1;  // No valid row found
+
+            // Bubble it up to position i
             while (j > i) {
-                swap(trailingZeroes[j], trailingZeroes[j-1]);
+                swap(maxRight[j], maxRight[j - 1]);
+                swapCount++;
                 j--;
-                swaps++;
             }
         }
-        return swaps;
+
+        return swapCount;
     }
 };
