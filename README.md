@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/gauravmundhada/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/gauravmundhada/DSA/tree/master/0494-target-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravmundhada/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauravmundhada/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravmundhada/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/gauravmundhada/DSA/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravmundhada/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravmundhada/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
