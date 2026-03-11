@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/gauravmundhada/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/gauravmundhada/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravmundhada/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/gauravmundhada/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/gauravmundhada/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravmundhada/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/gauravmundhada/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/gauravmundhada/DSA/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravmundhada/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
