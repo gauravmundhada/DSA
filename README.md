@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/gauravmundhada/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravmundhada/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravmundhada/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/gauravmundhada/DSA/tree/master/0130-surrounded-regions) |
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -493,9 +496,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/gauravmundhada/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
