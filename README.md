@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravmundhada/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravmundhada/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/gauravmundhada/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gauravmundhada/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gauravmundhada/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauravmundhada/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/gauravmundhada/DSA/tree/master/1871-palindrome-partitioning-iv) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gauravmundhada/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
