@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravmundhada/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gauravmundhada/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/gauravmundhada/DSA/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravmundhada/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravmundhada/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/gauravmundhada/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauravmundhada/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/gauravmundhada/DSA/tree/master/1871-palindrome-partitioning-iv) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauravmundhada/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravmundhada/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-trionic-array-ii) |
 ## Backtracking
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravmundhada/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravmundhada/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravmundhada/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravmundhada/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Prefix Sum
 |  |
 | ------- |
