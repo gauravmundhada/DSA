@@ -1,18 +1,19 @@
-// 2 pointer lege
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int n = nums.size();
+        int n = nums.size(); 
+        if (n == 1) return 1;
 
-        int i = 1, j = 1;
+        int i = 0, j = 1;
 
-        while (i < n) {
-            if (nums[i] != nums[i-1]) {
-                nums[j] = nums[i];
+        while (j < n) {
+            while (j < n && nums[i] == nums[j]) {
                 j++;
-            }            
-            i++;            
-        }
-        return j;
+            }
+
+            if (j < n && i+1 < n) nums[i+1] = nums[j];
+            i++;
+        }  
+        return i;
     }
 };
