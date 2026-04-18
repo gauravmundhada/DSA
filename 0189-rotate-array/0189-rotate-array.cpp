@@ -1,23 +1,14 @@
 class Solution {
 public:
-    void rotate(vector<int>& arr, int k) {
-        int n = arr.size();
+    void rotate(vector<int>& nums, int k) {
+        int n = nums.size();
 
-        k %= n;
+        vector<int> res(n);
 
-        vector<int> temp(k);
-        int j = 0;
-        for (int i = n-k; i < n; i++) {
-            temp[j] = arr[i];
-            j++;
+        for (int i = 0; i < n; i++) {
+            int newIndex = (i+k)%n;
+            res[newIndex] = nums[i];
         }
-
-        for (int i = n-1-k; i >= 0; i--) {
-            arr[i+k] = arr[i];
-        }
-
-        for (int i = 0; i < temp.size(); i++) {
-            arr[i] = temp[i];
-        }
+        nums = res;
     }
 };
