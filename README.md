@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/gauravmundhada/DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/gauravmundhada/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gauravmundhada/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gauravmundhada/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gauravmundhada/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravmundhada/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/gauravmundhada/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gauravmundhada/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/gauravmundhada/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gauravmundhada/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gauravmundhada/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravmundhada/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gauravmundhada/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/gauravmundhada/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
