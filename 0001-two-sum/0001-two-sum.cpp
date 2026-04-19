@@ -4,15 +4,16 @@ public:
         int n = nums.size();
         vector<int> ans(2);
 
+        unordered_map<int, int> mpp;
+
         for (int i = 0; i < n; i++) {
             int req = target - nums[i];
-            for (int j = i+1; j < n; j++) {
-                if (nums[j] == req) {
-                    ans[0] = i;
-                    ans[1] = j;
-                    break;
-                }
+            if (mpp.find(req) != mpp.end()) {
+                ans[0] = mpp[req];
+                ans[1] = i;
+                break;
             }
+            mpp[nums[i]] = i;
         }
         return ans;
     }
