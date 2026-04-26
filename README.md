@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauravmundhada/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauravmundhada/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauravmundhada/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauravmundhada/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gauravmundhada/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/gauravmundhada/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravmundhada/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/gauravmundhada/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/gauravmundhada/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/gauravmundhada/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gauravmundhada/DSA/tree/master/0130-surrounded-regions) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/gauravmundhada/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gauravmundhada/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
