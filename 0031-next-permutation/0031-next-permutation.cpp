@@ -3,24 +3,29 @@ public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
 
-        int index = -1;
-        for (int i = n-1; i > 0; i--) {
+        int idx_to_be_swapped = -1;
+
+        // Step 1
+        for (int i = n-1; i >= 1; i--) {
             if (nums[i] > nums[i-1]) {
-                index = i-1;
+                idx_to_be_swapped = i-1;
                 break;
             }
         }
-        if (index == -1) {
-            reverse(nums.begin(), nums.end()); 
+         
+        // desc order case
+        if (idx_to_be_swapped == -1) {
+            reverse(nums.begin(), nums.end());
             return;
         }
 
-        for (int i = n-1; i > index; i--) {
-            if (nums[index] < nums[i]) {
-                swap(nums[index], nums[i]);
+        for (int i = n-1; i > idx_to_be_swapped; i--) {
+            if (nums[i] > nums[idx_to_be_swapped]) {
+                swap(nums[idx_to_be_swapped], nums[i]);
                 break;
             }
         }
-        reverse(nums.begin()+index+1, nums.end());
+
+        reverse(nums.begin()+idx_to_be_swapped+1, nums.end());
     }
 };
