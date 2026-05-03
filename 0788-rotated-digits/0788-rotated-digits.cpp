@@ -2,36 +2,22 @@
 class Solution {
 public:
     int rotatedDigits(int n) {
-        unordered_map<int, int> rotated =   {
-            {0, 0},
-            {1, 1},
-            {8, 8},
-            {2, 5},
-            {5, 2},
-            {6, 9},
-            {9, 6}
-        };
         int cnt = 0;
-        for (int i = 2; i <= n; i++) {
-            if (isGood(i, rotated)) 
+        for (int i = 1; i <= n; i++) {
+            if (isGood(i)) 
                 cnt++;
         }
         return cnt;
     }
 
-    bool isGood(int x, unordered_map<int, int>& rotated) {
-        string s;
-        int org = x;
+    bool isGood(int x) {
+        bool isGood = false;
         while (x) {
             int digit = x%10;
-            if (rotated.find(digit) == rotated.end()) return false; 
-            int rotated_digit = rotated[digit];
-            s += to_string(rotated_digit);
-            x /= 10;
+            if (digit == 3 || digit == 7 || digit == 4) return false; // invalid case
+            if (digit == 2 || digit == 5 || digit == 6 || digit == 9) isGood = true; // changes value
+            x/=10;
         }
-
-        reverse(s.begin(), s.end());
-
-        return org != stoi(s);
+        return isGood;
     }
 };
