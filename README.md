@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmundhada/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gauravmundhada/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravmundhada/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/gauravmundhada/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gauravmundhada/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gauravmundhada/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gauravmundhada/DSA/tree/master/0053-maximum-subarray) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravmundhada/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gauravmundhada/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gauravmundhada/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/gauravmundhada/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauravmundhada/DSA/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/gauravmundhada/DSA/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/gauravmundhada/DSA/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
