@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravmundhada/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/gauravmundhada/DSA/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/gauravmundhada/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gauravmundhada/DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/gauravmundhada/DSA/tree/master/0212-word-search-ii) |
