@@ -1,45 +1,20 @@
 class Solution {
 public:
-    int n;
-    vector<int> dp;
+    int maximumJumps(vector<int>& nums, int target) {
+        int n = nums.size();
+        
+        vector<int> dp(n, -1);
+        dp[0] = 0;
 
-    int solve(vector<int>& nums, int target, int i) {
+        for (int i = 0; i < n; i++) {
+            if (dp[i] == -1) continue;
 
-        // reached last index
-        if (i == n - 1)
-            return 0;
-
-        // already computed
-        if (dp[i] != -2)
-            return dp[i];
-
-        int ans = -1;
-
-        for (int j = i + 1; j < n; j++) {
-
-            // valid jump
-            if (abs(nums[j] - nums[i]) <= target) {
-
-                int next = solve(nums, target, j);
-
-                // only consider valid paths
-                if (next != -1) {
-                    ans = max(ans, 1 + next);
+            for (int j = i+1; j < n; j++) {
+                if (abs(nums[j]-nums[i]) <= target) {
+                    dp[j] = max(1+dp[i], dp[j]);
                 }
             }
         }
-
-        return dp[i] = ans;
-    }
-
-    int maximumJumps(vector<int>& nums, int target) {
-
-        n = nums.size();
-
-        // -2 => unvisited
-        // -1 => impossible to reach end
-        dp.resize(n, -2);
-
-        return solve(nums, target, 0);
+        return dp[n-1];
     }
 };
