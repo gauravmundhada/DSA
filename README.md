@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravmundhada/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauravmundhada/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2751-robot-collisions](https://github.com/gauravmundhada/DSA/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauravmundhada/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravmundhada/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/gauravmundhada/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gauravmundhada/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gauravmundhada/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/gauravmundhada/DSA/tree/master/1871-palindrome-partitioning-iv) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/gauravmundhada/DSA/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gauravmundhada/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravmundhada/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-trionic-array-ii) |
 ## Backtracking
