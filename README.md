@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/gauravmundhada/DSA/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1306-jump-game-iii](https://github.com/gauravmundhada/DSA/tree/master/1306-jump-game-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1366-rank-teams-by-votes](https://github.com/gauravmundhada/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gauravmundhada/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravmundhada/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/gauravmundhada/DSA/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/gauravmundhada/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/gauravmundhada/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/0226-invert-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravmundhada/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/gauravmundhada/DSA/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/gauravmundhada/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravmundhada/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gauravmundhada/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
