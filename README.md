@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gauravmundhada/DSA/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravmundhada/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/gauravmundhada/DSA/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/gauravmundhada/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/gauravmundhada/DSA/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1366-rank-teams-by-votes](https://github.com/gauravmundhada/DSA/tree/master/1366-rank-teams-by-votes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/gauravmundhada/DSA/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/gauravmundhada/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/gauravmundhada/DSA/tree/master/0968-binary-tree-cameras) |
+| [1340-jump-game-v](https://github.com/gauravmundhada/DSA/tree/master/1340-jump-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gauravmundhada/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gauravmundhada/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1340-jump-game-v](https://github.com/gauravmundhada/DSA/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1366-rank-teams-by-votes](https://github.com/gauravmundhada/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gauravmundhada/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
