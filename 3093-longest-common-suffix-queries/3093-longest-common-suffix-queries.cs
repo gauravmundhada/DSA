@@ -1,98 +1,81 @@
-public class TrieNode
-{
-    public TrieNode[] children { get; set; }
-    public int index { get; set; }
+public class TrieNode {
+    public TrieNode[] children {get; set;}
+    public int index {get; set;}
 
-    public TrieNode()
-    {
+    public TrieNode() {
         children = new TrieNode[26];
         index = -1;
     }
 }
 
-public class Trie
-{
+public class Trie {
     private TrieNode root;
 
-    public Trie()
-    {
+    public Trie() {
         root = new TrieNode();
     }
 
-    public void Insert(int x, string[] wordContainer)
-    {
+    public void Insert(int x, string[] wordContainer) {
         string str = wordContainer[x];
-
+        int n = str.Length;
         TrieNode crawler = root;
 
-        // also maintain best answer at root
-        if (crawler.index == -1 ||
-            wordContainer[crawler.index].Length >
-            wordContainer[x].Length)
-        {
-            crawler.index = x;
-        }
-
-        for (int i = str.Length - 1; i >= 0; i--)
-        {
+        for (int i = n-1; i >= 0; i--) {
             int idx = str[i] - 'a';
-
-            if (crawler.children[idx] == null)
-            {
+            if (crawler.children[idx] == null) {
                 crawler.children[idx] = new TrieNode();
             }
-
             crawler = crawler.children[idx];
-
-            // update AFTER moving
-            if (crawler.index == -1 ||
-                wordContainer[crawler.index].Length >
-                wordContainer[x].Length)
-            {
+            if (crawler.index == -1 || wordContainer[crawler.index].Length > wordContainer[x].Length) { // this means better answer
                 crawler.index = x;
             }
         }
     }
 
-    public int Search(string word)
-    {
+    public int Search(string word, int smallestIdx) {
+        int n = word.Length;
         TrieNode crawler = root;
+        int ans = -1;
 
-        for (int i = word.Length - 1; i >= 0; i--)
-        {
+        for (int i = n-1; i >= 0; i--) {
             int idx = word[i] - 'a';
-
-            if (crawler.children[idx] == null)
-            {
-                return crawler.index;
+            // edge case what if string terminates from between like kuch chars same ho then nahi ho
+            if (crawler.children[idx] == null) {
+                // smallest string idx if first char not matches otherwise current index
+                return (i == n-1) ? smallestIdx : ans;
             }
-
             crawler = crawler.children[idx];
+            ans = crawler.index;
         }
-
-        return crawler.index;
+        return ans;
     }
 }
 
-public class Solution
-{
-    public int[] StringIndices(string[] wordContainer,
-                               string[] wordsQuery)
-    {
-        Trie trie = new Trie();
 
-        for (int i = 0; i < wordContainer.Length; i++)
-        {
+
+public class Solution {
+    public int[] StringIndices(string[] wordContainer, string[] wordsQuery) {
+        int n = wordContainer.Length;
+        var trie = new Trie();
+
+        int smallest = int.MaxValue;
+        int smallestIdx = -1;
+        for (int i = 0; i < n; i++) {
+            string word = wordContainer[i];
+            if (smallest > word.Length) {
+                smallestIdx = i;
+                smallest = word.Length;
+            }
+
             trie.Insert(i, wordContainer);
         }
 
-        int[] response = new int[wordsQuery.Length];
+        int m = wordsQuery.Length;
+        int[] response = new int[m];
 
-        for (int i = 0; i < wordsQuery.Length; i++)
-        {
-            response[i] = trie.Search(wordsQuery[i]);
+        for (int i = 0; i < m; i++) {
+            response[i] = trie.Search(wordsQuery[i], smallestIdx);
         }
-
         return response;
     }
 }
