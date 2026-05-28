@@ -11,9 +11,8 @@ public class TrieNode {
 public class Trie {
     private TrieNode root;
 
-    public TrieNode GetTrieNode() {
+    public Trie() {
         root = new TrieNode();
-        return root;
     }
 
     public void Insert(int x, string[] wordContainer) {
@@ -58,7 +57,6 @@ public class Solution {
     public int[] StringIndices(string[] wordContainer, string[] wordsQuery) {
         int n = wordContainer.Length;
         var trie = new Trie();
-        var trieNode = trie.GetTrieNode();
 
         int smallest = int.MaxValue;
         int smallestIdx = -1;
