@@ -1,18 +1,33 @@
 class Solution {
 public:
-    bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
-        int n = asteroids.size();
-        long long currMass = mass; // to avoid overflow
+     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
+    multiset<long long> set;        
+    
+    for (int asteroid : asteroids)
+        set.insert(asteroid);
+    
+    long long total_mass = mass;
 
-        sort(asteroids.begin(), asteroids.end());
+    while (!set.empty()) {
+        auto it = set.lower_bound(total_mass);
 
-        for (auto ast : asteroids) {
-            if (currMass < ast) return false;
-            currMass += ast;
+        if (it != set.end() && *it == total_mass) {
+            total_mass += *it;
+            set.erase(it);
+        } 
+        else {
+            if (it == set.begin())
+                break;
+
+            auto prevIt = prev(it);
+            total_mass += *prevIt;
+            set.erase(prevIt);
         }
-        return true;
     }
-};
+
+    return set.empty();
+}
+}; 
 
 
 /*
@@ -23,8 +38,8 @@ I have to optimize the way of picking the asteroid :
 sort and then take lower bound - 1 or prev(*it)
 
 
-mass = 10
-asteroids = [1,2]
+mass = 10, asteroids = [3,9,19,5,21]
+[3,5,9,19,21]
 
 
 */
