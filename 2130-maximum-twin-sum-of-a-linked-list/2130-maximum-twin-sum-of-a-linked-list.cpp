@@ -11,25 +11,48 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        if (head == NULL) return 0;
-
-        vector<int> list;
-        while (head) {
-            list.push_back(head->val);
-            head = head->next;
-        }
-
-        int l = 0, r = list.size()-1;
-
         int ans = 0;
-        while (l <= r) {
-            ans = max(ans, list[l]+list[r]);
-            l++;
-            r--;
+        if (head == NULL) return ans;
+
+        ListNode* firstPtr = head;
+
+        int len = 0;
+        while (head) {
+            head = head->next;
+            len++;
         }
+
+        ListNode* secondHalf = firstPtr;
+        int cnt = 0;
+        for (int i = 0; i < len / 2; i++) {
+            secondHalf = secondHalf->next;
+        }
+
+        ListNode* secondPtr = reverseLL(secondHalf);
+
+        while (firstPtr && secondPtr) {
+            ans = max(ans, firstPtr->val+secondPtr->val);
+            firstPtr = firstPtr->next;
+            secondPtr = secondPtr->next;
+        }
+
         return ans;
     }
+
+    ListNode* reverseLL(ListNode* secondHalf) {
+        if (secondHalf == nullptr) return nullptr;
+        ListNode* prev = nullptr;
+
+        while (secondHalf != nullptr) {
+            ListNode* temp = secondHalf->next;
+            secondHalf->next = prev;
+            prev = secondHalf;
+            secondHalf = temp;
+        }
+        return prev;
+    }
 };
+
 
 /*
 first find n -> length of LL
