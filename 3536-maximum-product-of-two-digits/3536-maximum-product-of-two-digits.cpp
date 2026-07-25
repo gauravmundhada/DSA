@@ -9,7 +9,7 @@ public:
                 b = a;
                 a = digit;
             }
-            else if (digit < a && digit > b) {
+            else if (digit > b) {
                 b = digit;
             }
             n/=10;
