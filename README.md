@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gauravmundhada/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/gauravmundhada/DSA/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravmundhada/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/gauravmundhada/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gauravmundhada/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravmundhada/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravmundhada/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1340-jump-game-v](https://github.com/gauravmundhada/DSA/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravmundhada/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauravmundhada/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/gauravmundhada/DSA/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravmundhada/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/gauravmundhada/DSA/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
