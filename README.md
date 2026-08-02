@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gauravmundhada/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravmundhada/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/gauravmundhada/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/gauravmundhada/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/gauravmundhada/DSA/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gauravmundhada/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/gauravmundhada/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/gauravmundhada/DSA/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/gauravmundhada/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/gauravmundhada/DSA/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/gauravmundhada/DSA/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/gauravmundhada/DSA/tree/master/1340-jump-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravmundhada/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravmundhada/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/gauravmundhada/DSA/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/gauravmundhada/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/gauravmundhada/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/gauravmundhada/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravmundhada/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravmundhada/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -690,4 +693,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/gauravmundhada/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/gauravmundhada/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
