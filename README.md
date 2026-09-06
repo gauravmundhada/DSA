@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauravmundhada/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/gauravmundhada/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/gauravmundhada/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmundhada/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravmundhada/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gauravmundhada/DSA/tree/master/0131-palindrome-partitioning) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gauravmundhada/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gauravmundhada/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/gauravmundhada/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/gauravmundhada/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/gauravmundhada/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/gauravmundhada/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravmundhada/DSA/tree/master/0132-palindrome-partitioning-ii) |
