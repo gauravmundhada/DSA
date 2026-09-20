@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/gauravmundhada/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gauravmundhada/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3498-reverse-degree-of-a-string](https://github.com/gauravmundhada/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauravmundhada/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2751-robot-collisions](https://github.com/gauravmundhada/DSA/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/gauravmundhada/DSA/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/gauravmundhada/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gauravmundhada/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravmundhada/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
