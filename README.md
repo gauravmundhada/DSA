@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/gauravmundhada/DSA/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/gauravmundhada/DSA/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gauravmundhada/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3904-smallest-stable-index-ii](https://github.com/gauravmundhada/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/gauravmundhada/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gauravmundhada/DSA/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gauravmundhada/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
